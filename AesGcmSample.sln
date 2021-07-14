@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AesGcmSample", "src\AesGcmSample.csproj", "{DCA6A93D-B47D-4230-A543-36642AF07C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA6A93D-B47D-4230-A543-36642AF07C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA6A93D-B47D-4230-A543-36642AF07C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA6A93D-B47D-4230-A543-36642AF07C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA6A93D-B47D-4230-A543-36642AF07C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
